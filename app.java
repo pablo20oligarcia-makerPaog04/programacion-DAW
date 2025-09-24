@@ -49,7 +49,10 @@ public class app {
 
         int b='b';//un caracter se guarda en un enter segun codigo ASCII
         char c=98;
-        System.out.println(b+""+c);
+        //System.out.println(b+""+c);
+
+        System.out.println("un texto cualquiera");
+        System.err.println("un bonito error");
     }
 
     /**Progarama para impromir texto
