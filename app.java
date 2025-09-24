@@ -53,9 +53,12 @@ public class app {
 
         System.out.println("un texto cualquiera");
         System.err.println("un bonito error");
+
+        System.out.print("hola");
+        System.out.println("hola");
     }
 
-    /**Progarama para impromir texto
+    /**Progarama para imprimir texto
      * @author Pablo Olivares García
      * @param texto a imprimir
      * @version 1.0
